@@ -4,6 +4,10 @@ BP3 Pocetnik
 Bootstrap 3 One Page theme for a course "Bootstrap 3 za početnike" on lakotuts.com (Croatian)
 http://www.lakotuts.com/tecaj/bootstrap-3-za-pocetnike/
 
+DEMO
+===========
+http://igorbenic.github.io/bp3pocetnik/
+
 Using the theme 
 ===========
 
